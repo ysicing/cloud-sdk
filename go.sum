@@ -1,0 +1,11 @@
+github.com/6tail/lunar-go v1.2.0/go.mod h1:mMvCby9aWTSmsZjnv+5EOW7taJFV4RsjNcQLRl/3whY=
+github.com/ergoapi/util v0.0.6 h1:nQlVFh2dD8aLepzSBcrVpDvUrbaMDufG2viIUMBOORA=
+github.com/ergoapi/util v0.0.6/go.mod h1:3SqkBz3WzRJ4SCSrlLS0Ij5wBKO9TTQMg752ud4KCSg=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/mitchellh/go-homedir v1.1.0/go.mod h1:SfyaCUpYCn1Vlf4IUYiD9fPX4A5wJrkLzIz1N1q0pr0=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.250 h1:hIeiNRs6XL0s/BPXYONA8oIyWoZloTB3pnowC8yPxYE=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.250/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cvm v1.0.250 h1:Lul+mF8pX93me46h3tVmi0Uwm96mnuM9ToFCvebAu8s=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cvm v1.0.250/go.mod h1:AqyM/ZZMD7q5mHBqNY9YImbSpEpoEe7E/vrTbUWX+po=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/vpc v1.0.250 h1:0QmV4xviFnZdfXuFWiDijSo9792B+A2ZZSsw2G8gFM4=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/vpc v1.0.250/go.mod h1:SKgeSsIfPEM6BeoIFiGHsWG9UsEXzkK0SkWx51H/OS8=
